@@ -1,16 +1,17 @@
-# covidtracker
+<h1>Covid-19 Trackerer for India</h1>
 
-A new Flutter project.
+- Provider used for statemanagement.
+- Free public API used for data.
+- Dio used for http request.
 
-## Getting Started
+Download App Here : https://github.com/csedeepakyadav/Covid-19_Tracker_India/blob/master/apk/covidtracker.apk
+<br>
+<hr>
+<br>
+![covidgithub](https://user-images.githubusercontent.com/22419021/79382404-12bb6080-7f81-11ea-9938-4c53aa9fc651.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<hr>
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
